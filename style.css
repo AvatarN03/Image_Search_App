@@ -23,7 +23,8 @@ body{
     background: #083C40;
     box-shadow: 0 0 25px cyan inset;
     text-align: center;
-    position:relative;
+    
+    position: relative;
 }
 
 section{
@@ -32,7 +33,7 @@ section{
     margin: 0 auto;
     padding: 20px 10px;
     position: relative;
-    flex-grow:1;
+    flex-grow: 1;
 }
 
 
@@ -98,7 +99,7 @@ section #search:focus{
     flex-wrap: wrap;
     width: 98%;
     margin: 0 auto;
-    flex:1;
+    flex: 1;
 }
 
 .search-results .result{
@@ -275,6 +276,7 @@ footer p span {
 
 
 }
+
 
 
 
