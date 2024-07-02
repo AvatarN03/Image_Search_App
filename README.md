@@ -9,5 +9,6 @@ The Website will work by having YOUR API-Key from unsplash.
 Paste Your API-KEY in {access_key} in main.js.
 
 -----------------------------------
-The Preview of the Website : -
+The Preview of the Website : - https://avatarn03.github.io/Image_Search_App/
+
 
