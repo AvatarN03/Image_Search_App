@@ -174,7 +174,7 @@ footer p span {
     text-transform: uppercase;
 }
 
-@media (max-width: 1150px) {
+@media screen and (max-width: 1150px) {
 
     .search-results .result{
         width: 25%;
@@ -182,7 +182,7 @@ footer p span {
 }
 
 
-@media (max-width: 1000px) {
+@media screen and (max-width: 1000px) {
 
     
     section h1{
@@ -196,7 +196,7 @@ footer p span {
 }
 
 
-@media (max-width: 780px) {
+@media screen and (max-width: 780px) {
 
     
     section h1{
@@ -224,7 +224,7 @@ footer p span {
 }
 
 
-@media (max-width: 580px) {
+@media screen and (max-width: 580px) {
 
     
     section h1{
@@ -250,7 +250,7 @@ footer p span {
 
 
 }
-@media (max-width: 470px) {
+@media screen and (max-width: 470px) {
 
     
     section h1{
