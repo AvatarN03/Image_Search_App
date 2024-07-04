@@ -138,7 +138,12 @@ section #search:focus{
     display: none;
     transition: all .5s ease-in-out;
 }
+#show-more:active{
+font-size:1.1rem;
+background-color: coral;
 
+
+}
 
 
 footer {
