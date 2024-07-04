@@ -130,7 +130,7 @@ section #search:focus{
     color: #eee;
     background: rgb(11, 124, 87);
     padding: 20px;
-    font-size: 1.1rem;
+    font-size: 1rem;
     border-radius: 8px;
     margin: auto;
     margin-top: 2rem;
@@ -139,10 +139,7 @@ section #search:focus{
     transition: all .5s ease-in-out;
 }
 
-#show-more:focus{
-    color: #ffffff;
-    font-size: 1.4rem;
-}
+
 
 footer {
     width: 99%;
@@ -239,6 +236,11 @@ footer p span {
         background:#199722;
         cursor: pointer;
     }
+
+    
+#show-more{
+    font-size:.5rem;
+}
     
 
 
