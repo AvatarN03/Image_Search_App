@@ -15,8 +15,9 @@ html{
 }
 
 body{
+    max-width:1200px;
     width: 100%;
-    min-height: 100vh;
+    min-height: 98vh;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -66,7 +67,7 @@ section h1{
 
 section form {
     display: block;
-    margin: 2rem auto;
+    margin: 2rem ;
     
 }
 
@@ -74,7 +75,7 @@ section form {
     font-size: 2rem;
     padding: 1rem;
     width: 35%;
-    margin: 0 3rem;
+    margin: 0 2rem;
     border-radius: 5px;
 }
 
@@ -207,8 +208,7 @@ footer p span {
         font-size: 2rem;
         padding: .75rem;
         width: 58%;
-        margin: 0 3rem;
-        border-radius: 5px;
+        
     }
     
 
@@ -233,19 +233,12 @@ footer p span {
     }
     #input{
         font-size: 1rem;
-        padding: .5rem;
-        width: 60%;
-        margin: 0 3rem;
-        border-radius: 5px;
+       
     }
 
     section #search{
         font-size: 1.2rem;
-        padding: 8px;
-        border-radius: 5px;
-        color:#eee;
-        background:#199722;
-        cursor: pointer;
+       
     }
     
 
@@ -259,22 +252,15 @@ footer p span {
     }
     #input{
         font-size: 1rem;
-        padding: .5rem;
-        width: 68%;
-        margin: 0 3rem;
-        border-radius: 5px;
+       
     }
 
     section #search{
         font-size: .8rem;
-        padding: 6px;
-        border-radius: 5px;
-        color:#eee;
-        background:#199722;
-        cursor: pointer;
+        
     }
      footer{
-        font-size: .56rem;
+        font-size: .36rem;
     }
     
     
