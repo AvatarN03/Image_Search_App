@@ -135,11 +135,12 @@ section #search:focus{
     color: #123;
     display: block;
     width: 92%;
-    padding: 0 1rem;
+    padding: 1rem;
     font-size: 1.2rem;
     text-overflow: ellipsis;
     white-space: nowrap;
     overflow: hidden;
+    text-align:center;
 }
 
 #show-more{
@@ -155,7 +156,7 @@ section #search:focus{
     transition: all .5s ease-in-out;
 }
 
-#show-more:hover{
+#show-more:focus{
     color: #ffffff;
     font-size: 1.4rem;
 }
@@ -205,7 +206,7 @@ footer p span {
     #input{
         font-size: 2rem;
         padding: .75rem;
-        width: 55%;
+        width: 58%;
         margin: 0 3rem;
         border-radius: 5px;
     }
@@ -233,7 +234,7 @@ footer p span {
     #input{
         font-size: 1rem;
         padding: .5rem;
-        width: 55%;
+        width: 60%;
         margin: 0 3rem;
         border-radius: 5px;
     }
@@ -259,7 +260,7 @@ footer p span {
     #input{
         font-size: 1rem;
         padding: .5rem;
-        width: 58%;
+        width: 68%;
         margin: 0 3rem;
         border-radius: 5px;
     }
